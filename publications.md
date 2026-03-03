@@ -5,10 +5,11 @@ title: Publications
 
 ## Research Publications
 
-### Trade Dress Protection for Soft Toys
-Analysis of scope and challenges in India.
+### Research Paper
+Trade Dress Protection for Soft Toys: Analysis of scope and challenges in India.
 
-### Legal and Ethical Challenges of AI-Based Diagnostics in India
+### Research Paper 
+Legal and Ethical Challenges of AI-Based Diagnostics in India
 
 ### Case Commentary
 Dr. D.C. Saxena vs Hon’ble Chief Justice of India
