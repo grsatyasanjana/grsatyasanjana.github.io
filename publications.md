@@ -6,7 +6,7 @@ title: Publications
 ## Research Publications
 
 ### Research Paper
-Trade Dress Protection for Soft Toys: Analysis of scope and challenges in India.
+Trade Dress Protection for Soft Toys. Analysis of scope and challenges in India.
 
 ### Research Paper 
 Legal and Ethical Challenges of AI-Based Diagnostics in India
